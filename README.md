@@ -1,5 +1,5 @@
-<h1 align="center"><i>Hola pues parceros, soy Didier :)</i></h1>
-<img src="https://i.pinimg.com/originals/87/b3/74/87b374a764bfa8f4ad403569455a9554.gif"/>
+<h1 align="center"><i>Hola pues mi gente, soy Didier :)</i></h1>
+<p align="center"><img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif"/></p>
 <h2 align="left">⚡Estos son los lenguajes que se:</h2>
 <table align="center">
   <tr>
@@ -25,6 +25,14 @@
     </td>
   </tr>
 </table>
+<h2 align="left">📊Mis estadísticas:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=didi-pos&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="didi-pos's Stats" width="500"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didi-pos&theme=highcontrast&hide_border=false" alt="didi-pos's Streak" width="500"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didi-pos&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="didi-pos's Top Languages" width="500"/>
+</div>
 <h2 align="left">📱Mis redes sociales, siganme!:</h2>
 <table align="center">
   <tr>
@@ -51,6 +59,18 @@
         <img src="https://img.icons8.com/?size=128&id=44112&format=png" width="60"/><br>
       </a>
       <sub>Youtube</sub>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" width="40"/>
+    </td>
+    <td style="vertical-align: middle;">
+      <a href="mailto:didierposse@gmail.com" style="font-size: 20px;">
+        didierposse@gmail.com
+      </a>
     </td>
   </tr>
 </table>
